@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "chae's github.io"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : ""
+name                     : "chae-ni"
 description              : "An amazing website."
 url                      :  "https://codnjs3575.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "codnjs3575"
+  name             : "chae-ni"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "잘 부탁합니다."
-  location         : "in my house"
+  bio              : "진인사대천명"
+  location         : "seoul"
   email            :
   links:
     - label: "Email"
