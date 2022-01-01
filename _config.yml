@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "chae's github.io"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "채원이의 HOME SWEET HOME"
+name                     : ""
 description              : "An amazing website."
 url                      :  "https://codnjs3575.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
