@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "codnjs3575"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "codnjs3575"
 description              : "An amazing website."
 url                      :  "https://codnjs3575.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "codnjs3575"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "잘 부탁합니다."
+  location         : "in my house"
   email            :
   links:
     - label: "Email"
